@@ -1,6 +1,7 @@
-# Exploratory Data Analysis (EDA) Projects of MTA Turnstile Data:
-Hatim Alshehri
+# New York Metropolitan Transportation Authority (MTA): Leverging Traffic Foot For Markting Ads Purposes
 
+Hatim Alshehri
+ 
 ## Introduction:
 New York Metropolitan Transportation Authority (MTA)  publishes data on a weekly basis. This data does not represent value if it is not analyzed and used correctly to serve your business domain.
 
