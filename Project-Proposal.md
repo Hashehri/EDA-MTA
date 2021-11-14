@@ -52,8 +52,8 @@ The dataset contains over 2.7 million observations in the period from August to 
 
 ## Tools:
 * For carring out the project and explore/prepare the data: Jupyter, Sqllite3, and Python3.
-* For data visualization: Matplotlib, and Seaborn. 
 * For data read and write operations: Numpy, and Panda.
+* For data visualization: Matplotlib, and Seaborn.
 
 
 ## Communication:
