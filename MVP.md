@@ -1,6 +1,6 @@
 # MVP Goal:
 
-### The goal of this project would be an identification of the subway stations that have the most crowded, correlated with those who commute every day. And to help an Ads agency target crowds from busy stations and present its marketing products. For these, will analyze the visitors of all stations and identify crowds in busy stations between morning and evening to target them with suitable ads.
+### The goal of this project would be an identification of the subway stations that have the most crowded, correlated with those who commute every day. And to help an Ads agency target crowds from busy stations and present its marketing products. I will analyze the visitors of all stations and identify the busiest stations to target. As a result, identifying the congestions per day, correlated with congestions time.
 
 <img width="895" alt="Screen Shot 2021-11-16 at 2 01 56 AM" src="https://user-images.githubusercontent.com/89771282/141867644-540453b3-4359-4c20-9fe8-e8cc2342850d.png">
 

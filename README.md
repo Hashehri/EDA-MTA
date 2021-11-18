@@ -15,7 +15,7 @@ these, I will analyze the visitors of all stations and identify the busiest stat
 As a result, the crowds will be shown and detected based on congestion time.
 
 ## Question/need:
-The goal of this analysis is to determine crowds of trains stations that can be used positively. Therefore, helping the ads agency in the decision-making and target crowds stations and determine the congestions per day, carrolated with congestions time.
+The goal of this analysis is to determine crowds of trains stations that can be used positively. Therefore, helping the ads agency in the decision-making and target crowds stations and determine the congestions per day, correlated with congestions time.
 
 * Identify stations that has most congestion.
 
@@ -63,8 +63,8 @@ The dataset contains over 2.7 million observations in the period from August to 
 | DATETIME    | Represent the time and date in the same column |
 | ENTRY_DIFF  | The different in the entry based on the previous time period |
 | EXIT_DIFF   | The different in the exit based on the previous time period  |
-| TOTAL_TRAFFIC | represents the sum of (ENTRY_DIFF, EXIT_DIFF)           |
-
+| TOTAL_TRAFFIC | represents the sum of (ENTRY_DIFF, EXIT_DIFF)            |
+ 
 
 ## Tools:
 * For carring out the project and explore/prepare the data: Jupyter, Sqllite3, and Python3.
