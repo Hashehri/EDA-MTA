@@ -80,5 +80,5 @@ Easy graphs to detect crowds. Also, helping to take an advantage of crowds by id
 
 <br />
 
-[Further details on the MVP of this project]() 
+For further details on the MVP of this project [click here :)](https://github.com/Hashehri/EDA-MTA/blob/main/MVP.md) 
 
