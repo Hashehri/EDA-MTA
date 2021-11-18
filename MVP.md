@@ -9,13 +9,13 @@
 
 <img width="424" alt="Screen Shot 2021-11-16 at 2 03 15 AM" src="https://user-images.githubusercontent.com/89771282/141867885-b78a2562-8e87-4e42-9cf2-5625127739b4.png">
 
-### The Busiest 10 Stations in The Morning
+### Average of Top 10 Busiest Stations
 
-<img width="970" alt="Screen Shot 2021-11-16 at 2 27 47 AM" src="https://user-images.githubusercontent.com/89771282/141868769-95090979-7dc1-44c6-b349-15d93d579fd9.png">
+![output](https://user-images.githubusercontent.com/89771282/142505537-31488ff1-3958-44d9-ba84-d3ccc5363a02.png)
 
-### The Busiest 10 Stations in The Evening
+### Top 10 Stations Traffic pattern
 
-<img width="971" alt="Screen Shot 2021-11-16 at 2 28 17 AM" src="https://user-images.githubusercontent.com/89771282/141868794-cad354ba-a6f1-40d7-927a-42e755ff2f9c.png">
+![output copy](https://user-images.githubusercontent.com/89771282/142505552-1d9b3910-ad67-45a6-bd1e-8350a3c5e261.png)
 
 <br />
 <br />
