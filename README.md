@@ -63,8 +63,8 @@ The dataset contains over 2.7 million observations in the period from August to 
 | DATETIME    | Represent the time and date in the same column |
 | ENTRY_DIFF  | The different in the entry based on the previous time period |
 | EXIT_DIFF   | The different in the exit based on the previous time period  |
-| TOTAL_TRAFFIC | represents the sum of (ENTRY_DIFF, EXIT_DIFF)           |
-
+| TOTAL_TRAFFIC | represents the sum of (ENTRY_DIFF, EXIT_DIFF)            |
+ 
 
 ## Tools:
 * For carring out the project and explore/prepare the data: Jupyter, Sqllite3, and Python3.
