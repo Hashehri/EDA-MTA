@@ -21,8 +21,12 @@ The goal of this analysis is to determine crowds of trains stations that can be 
 * Find congestions time of day for each train station.
 
 ## Objective and Goal:
-
-### Find the congestion on each station.
+Take advantage of the stations crowds positively for marketing purposes.
+<br />
+* Find the congestion on each station.
+* Help the ads agency in the decision-making.
+* Improving the ads cost and set the cost in accurate way.
+* Providing detailed number of visitor by each station.
 
 ## Design:
 The project utilizes a dataset provided by the MTA that helps in getting information regarding
