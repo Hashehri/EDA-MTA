@@ -10,7 +10,7 @@ New York Metropolitan Transportation Authority (MTA)  publishes data on a weekly
 
 ## Abstract:
 The project goal would be an identification of the subway stations that have the most crowded,
-to help an Ads agency target crowds from busy stations and present there marketing products. For
+to help an Ads agency target crowds from busy stations and present their marketing products. For
 these, I will analyze the visitors of all stations and identify the busiest stations to target.
 As a result, the crowds will be shown and detected based on congestion time.
 
