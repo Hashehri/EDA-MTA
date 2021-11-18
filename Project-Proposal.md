@@ -18,15 +18,15 @@ The goal of this analysis is to determine crowds of trains stations that can be 
 
 * Find congestions per day for each train station.
 
-* Find congestions per day priod.
+* Find congestions time of day for each train station.
 
-* How to use those congestions positively and target the most crowded stations.
+## Objective and Goal:
+
+### Find the congestion on each station.
 
 ## Design:
 The project utilizes a dataset provided by the MTA that helps in getting information regarding
-the stations especially the turnstiles information. MTA APIs for Plotly graphs and line logos.
-Therefore, the design detects congestions based on stations exits, entries between morning 
-and evening. After detecting, the model will generate a live graph for spotting congestions, to 
+the stations especially the turnstiles information. Therefore, the design detects congestions based on stations exits, entries. After detecting, the model will generate a graph for spotting congestions, to 
 enable the Ads agencies to take action to improve ads operations and pay attention to the busy stations.
 
 ## Data:
@@ -37,6 +37,7 @@ The dataset contains over 2.7 million observations in the period from August to 
 
 * Field Description:
 <br />
+
 
 | Field Name  |                Description |
 | ----------- | ----------- |
@@ -51,6 +52,12 @@ The dataset contains over 2.7 million observations in the period from August to 
 | DESC        | Represent the "REGULAR" scheduled audit event (Normally occurs every 4 hours) |
 | ENTRIES     | The comulative entry register value for a device |
 | EXITS       | The cumulative exit register value for a device |
+| DAY_OF_WEEK | The day of week represented in categorical format, started from 0 which represent the first day (Monday)|
+| DATETIME    | Represent the time and date in the same column |
+| ENTRY_DIFF  | The different in the entry based on the previous time period |
+| EXIT_DIFF   | The different in the exit based on the previous time period  |
+| TOTAL_TRAFFIC | represents the sum of (ENTRY_DIFF, EXIT_DIFF)           |
+
 
 ## Tools:
 * For carring out the project and explore/prepare the data: Jupyter, Sqllite3, and Python3.
@@ -58,5 +65,5 @@ The dataset contains over 2.7 million observations in the period from August to 
 * For data visualization: Matplotlib, and Seaborn.
 
 
-## Communication:
+## MVP Goal:
 * The EDA project will be presented soon, be there :) 
