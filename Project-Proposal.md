@@ -77,4 +77,4 @@ Exploratory data analysis techniques are used to clean the data and form a prope
 
 
 ## Communication:
-* The EDA project will be presented soon, be there :) 
+* The EDA project presented in pptx slids format, [have look at me:)](https://github.com/Hashehri/EDA-MTA/blob/main/MTA_EDA_presentation.pdf) 
