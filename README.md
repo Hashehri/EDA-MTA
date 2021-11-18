@@ -15,7 +15,7 @@ these, I will analyze the visitors of all stations and identify the busiest stat
 As a result, the crowds will be shown and detected based on congestion time.
 
 ## Question/need:
-The goal of this analysis is to determine crowds of trains stations that can be used positively. Therefore, helping the ads agency in the decision-making and target crowds stations and determine the congestions per day, carrolated with congestions time.
+The goal of this analysis is to determine crowds of trains stations that can be used positively. Therefore, helping the ads agency in the decision-making and target crowds stations and determine the congestions per day, correlated with congestions time.
 
 * Identify stations that has most congestion.
 
