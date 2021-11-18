@@ -15,11 +15,11 @@ As a result, the crowds will be shown and detected based on congestion time.
 ## Question/need:
 The goal of this analysis is to determine crowds of trains stations that can be used positively. Therefore, helping the ads agency in the decision-making and target crowds from busy stations and determine the busiest times of the day, and the most days have crowds.
 
-* Identify busy trains of crowded stations.
+* Identify stations that has most congestion.
 
-* Find congestions per day for each train station.
+* Find congestions per day for each station.
 
-* Find congestions time of day for each train station.
+* Find the congestions time for each station.
 
 ## Objective and Goal:
 Take advantage of the stations crowds positively for marketing purposes.
