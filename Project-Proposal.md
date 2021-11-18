@@ -70,4 +70,15 @@ The dataset contains over 2.7 million observations in the period from August to 
 
 
 ## MVP Goal:
-* The EDA project will be presented soon, be there :) 
+* The goal of this project would be an identification of the subway stations that have the most congestion and crowds, correlated with those who commute every day. And to find how to take this congestion in positive way to serve the ads agency agenda. 
+
+<br />
+
+Easy graphs to detect crowds. Also, helping to take an advantage of crowds by identify the busiest stations based on the graphs.
+
+
+
+<br />
+
+[Further details on the MVP of this project]() 
+
