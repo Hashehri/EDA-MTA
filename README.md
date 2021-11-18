@@ -1,8 +1,10 @@
 
 # New York Metropolitan Transportation Authority (MTA): Leveraging Foot-Traffic For Marketing Purposes
 
-Hatim Alshehri
- 
+
+![Title (1)](https://user-images.githubusercontent.com/89771282/142501533-d139fb24-9d45-499e-b924-f50fc5862eba.jpg)
+
+
 ## Introduction:
 New York Metropolitan Transportation Authority (MTA)  publishes data on a weekly basis. This data does not represent value, Unless it is analyzed and used correctly to serve certain business domain to take advantage of this foot-traffic.
 
