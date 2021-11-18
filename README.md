@@ -46,7 +46,7 @@ The dataset contains over 2.7 million observations in the period from August to 
 <br />
 
 
-| Field Name  |                Description |
+| Field Name  | Description |
 | ----------- | ----------- |
 | C/A         | Control Area (e.g., A002)              |
 | UNIT        | Remote Unit for a station (e.g., R051) |
